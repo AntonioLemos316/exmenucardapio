@@ -1,6 +1,7 @@
 footer{
     text-align: center;
+    font-weight: 600;
     color: #fff;
-    margin: 20px;
+    margin-top: 20px;
     background: rgba(34, 34, 34, 0.3);
 }

@@ -16,6 +16,7 @@ h2{
 }
 
 .container2{
+    padding: 50px;
     display: flex;
     background: rgba(34, 34, 34, 0.3);
     color: black;
