@@ -63,7 +63,7 @@ img:hover{
 
 input{
     list-style: none;
-    background: rgba(0, 0, 0, 0.7);
+    background: rgba(0, 0, 0, 0.8);
     color: white    ;
     border-radius: 10px;
     margin: 5px;
@@ -81,4 +81,8 @@ input:hover{
     padding: 5px;
     align-items: flex-start;
     color: #000;
+}
+
+textarea{
+    background: #00000088;
 }
