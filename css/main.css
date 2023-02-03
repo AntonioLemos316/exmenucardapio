@@ -14,14 +14,16 @@ h2, p{
     background: rgba(34, 34, 34, 0.3);
     color: black;
     text-align: center;
-    justify-content: space-around;
-    flex-direction: row;
+    justify-content: space-between;
+    flex-direction: row-reverse;
 }
 
 .item2{
     list-style: none;
     background: rgba(0, 0, 0, 0.5);
-    border-radius: 10px;
-    margin: 50px;
-    padding: 50px;
+    width: 120px;
+    height: 120px;
+    border-radius: 120px;
+    margin: 5px;
+    padding: 40px;
 }
