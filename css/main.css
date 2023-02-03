@@ -18,7 +18,7 @@ h2{
 .container2{
     padding: 50px;
     display: flex;
-    background: rgba(34, 34, 34, 0.3);
+    background: none;
     color: black;
     text-align: center;
     justify-content: center;
@@ -31,7 +31,7 @@ h2{
 
 .container3{
     display: flex;
-    background: rgba(34, 34, 34, 0.3);
+    background: none;
     color: black;
     text-align: center;
     justify-content: center;
@@ -67,7 +67,7 @@ input{
     color: white    ;
     border-radius: 10px;
     margin: 5px;
-    padding: 5px;
+    padding: 8px;
     align-items: flex-start;
 }
 
@@ -78,7 +78,7 @@ input:hover{
     background: #00e0f0;
     border-radius: 10px;
     margin: 5px;
-    padding: 5px;
+    padding: 8px;
     align-items: flex-start;
     color: #000;
 }
